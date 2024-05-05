@@ -1,5 +1,5 @@
 I’m Essie.
-I’m interested in everything related to programming; my stacks are HTML, CSS, Javascript amd React.
+Everything programming. Stacks: HTML, CSS, Javascript and React.
 I’m looking to collaborate on projects.
 Email: @olukoyaesther234@gmail.com
 
