@@ -37,10 +37,8 @@ Next.js
 ## 🌍 Let’s Connect
 
 Feel free to explore my repositories and connect with me!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/estherolukoyatasha)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://essietasha.github.io/Portfolio-Essie)
+- 💼 [LinkedIn](https://www.linkedin.com/in/estherolukoyatasha)
+- 🌐 [Portfolio](https://essietasha.github.io/Portfolio-Essie/)
 
 <!--
 **Essietasha/Essietasha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
