@@ -1,10 +1,15 @@
 # 👋Hi there! I'm Esther Olukoya
 
-## 👩‍💻 About Me
+## About Me
 A Frontend Developer with experience in backend integrations
+
+### 🔭 I’m currently working on:
+Currently working on building fully fuctional applications to enhance my full-stack development skills, while exploring new technologies and methodologies.
 
 ### 🌱 I’m currently learning:
 Next.js
+
+---
 
 ## 🚀 Tech Stack
 
@@ -30,9 +35,13 @@ Next.js
 ---
 
 ## 🌍 Let’s Connect
+
 Feel free to explore my repositories and connect with me!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/estherolukoyatasha)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=vercel&logoColor=white)](https://essietasha.github.io/Portfolio-Essie)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/estherolukoyatasha)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://essietasha.github.io/Portfolio-Essie)
+
 <!--
 **Essietasha/Essietasha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
