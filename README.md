@@ -22,6 +22,7 @@ Next.js
 
 **Backend & Integration**
 - Python
+- Firebase
 - RESTful APIs
 - SQL
 - State management
