@@ -1,6 +1,9 @@
-# Hi👋 I'm Esther
+<div align="center">
 
+# Hi👋 I'm Esther
 ### Frontend Developer | Experienced in Backend Integrations
+
+</div>
 
 #### 🔭 What I Work On:
 Fully-stack applications to enhance my full-stack development skills, while exploring new technologies and methodologies.
@@ -11,7 +14,7 @@ Scalable frontend apps with React, TypeScript & real-world APIs
 #### 🌱 I’m currently learning:
 Next.js, TRypeScript
 
-🌐 Portfolio:
+#### 🌐 Portfolio:
 https://essietasha.github.io/Portfolio-Essie
 ---
 
