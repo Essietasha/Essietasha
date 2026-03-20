@@ -5,7 +5,7 @@
 ### 🔭 What I Work On:
 Fully-stack applications to enhance my full-stack development skills, while exploring new technologies and methodologies.
 
-###⚙️ Focus Area:
+### ⚙️ Focus Area:
 Scalable frontend apps with React, TypeScript & real-world APIs
 
 ### 🌱 I’m currently learning:
