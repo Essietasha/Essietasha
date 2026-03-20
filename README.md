@@ -6,7 +6,7 @@
 </div>
 
 #### 🔭 What I Work On:
-Fully-stack applications to enhance my full-stack development skills, while exploring new technologies and methodologies.
+Building frontend applications with modern tools, exploring new technologies, and expanding into full-stack development.
 
 #### ⚙️ Focus Area:
 Building scalable frontend applications with React, TypeScript, and integrating third-party APIs
