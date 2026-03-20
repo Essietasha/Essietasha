@@ -1,7 +1,6 @@
 # Hi👋 I'm Esther
 
-## About Me
-Frontend Developer | Experienced in Backend Integrations
+## Frontend Developer | Experienced in Backend Integrations
 
 ### 🔭 What I Work On:
 Fully-stack applications to enhance my full-stack development skills, while exploring new technologies and methodologies.
