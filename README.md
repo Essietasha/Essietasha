@@ -1,14 +1,19 @@
-# 👋Hi there! I'm Esther Olukoya
+# Hi👋 I'm Esther
 
 ## About Me
-A Frontend Developer with experience in backend integrations
+Frontend Developer | Experienced in Backend Integrations
 
-### 🔭 I’m currently working on:
-Currently working on building fully fuctional applications to enhance my full-stack development skills, while exploring new technologies and methodologies.
+### 🔭 What I Work On:
+Fully-stack applications to enhance my full-stack development skills, while exploring new technologies and methodologies.
+
+###⚙️ Focus Area:
+Scalable frontend apps with React, TypeScript & real-world APIs
 
 ### 🌱 I’m currently learning:
-Next.js
+Next.js, TRypeScript
 
+🌐 Portfolio:
+https://essietasha.github.io/Portfolio-Essie
 ---
 
 ## 🚀 Tech Stack
