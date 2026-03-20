@@ -14,6 +14,8 @@ Building scalable frontend applications with React, TypeScript, and integrating 
 #### 🌱 I’m currently learning:
 Next.js, TypeScript
 
+---
+
 #### 🌐 Portfolio: https://essietasha.github.io/Portfolio-Essie
 
 #### 💼 LinkedIn: https://linkedin.com/in/estherolukoyatasha
