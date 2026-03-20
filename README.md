@@ -9,30 +9,36 @@
 Fully-stack applications to enhance my full-stack development skills, while exploring new technologies and methodologies.
 
 #### ⚙️ Focus Area:
-Scalable frontend apps with React, TypeScript & real-world APIs
+Building scalable frontend applications with React, TypeScript, and integrating third-party APIs
 
 #### 🌱 I’m currently learning:
-Next.js, TRypeScript
+Next.js, TypeScript
 
-#### 🌐 Portfolio:
-https://essietasha.github.io/Portfolio-Essie
+#### 🌐 Portfolio: https://essietasha.github.io/Portfolio-Essie
+
+#### 💼 LinkedIn: https://linkedin.com/in/estherolukoyatasha
 ---
 
-### 🚀 Tech Stack
+### 🛠️ Tech Stack
 
-**Frontend**
-- React
-- TypeScript
-- JavaScript (ES6+)
-- HTML5
-- CSS3 & CSS Frameworks
-
-**Backend & Integration**
-- Python
-- Firebase
-- RESTful APIs
-- SQL
-- State management
+<table>
+  <tr>
+    <td align="center">React<br><img src="https://skillicons.dev/icons?i=react" /></td>
+    <td align="center">TypeScript<br><img src="https://skillicons.dev/icons?i=ts" /></td>
+    <td align="center">JavaScript<br><img src="https://skillicons.dev/icons?i=js" /></td>
+    <td align="center">HTML5<br><img src="https://skillicons.dev/icons?i=html" /></td>
+    <td align="center">CSS3<br><img src="https://skillicons.dev/icons?i=css" /></td>
+    <td align="center">Tailwind CSS<br><img src="https://skillicons.dev/icons?i=tailwind" /></td>
+  </tr>
+  <tr>
+    <td align="center">Python<br><img src="https://skillicons.dev/icons?i=python" /></td>
+    <td align="center">Firebase<br><img src="https://skillicons.dev/icons?i=firebase" /></td>
+    <td align="center">REST APIs<br><img src="https://skillicons.dev/icons?i=postman" /></td>
+    <td align="center">SQL<br><img src="https://skillicons.dev/icons?i=mysql" /></td>
+    <td align="center">State Management<br><img src="https://skillicons.dev/icons?i=redux" /></td>
+    <td align="center">Git<br><img src="https://skillicons.dev/icons?i=git" /></td>
+  </tr>
+</table>
 
 **Development Practices**
 - Agile methodology
@@ -41,12 +47,6 @@ https://essietasha.github.io/Portfolio-Essie
 - UI architecture & frontend scalability
 
 ---
-
-### 🌍 Let’s Connect
-
-Feel free to explore my repositories and connect with me!
-- 💼 [LinkedIn](https://www.linkedin.com/in/estherolukoyatasha)
-- 🌐 [Portfolio](https://essietasha.github.io/Portfolio-Essie/)
 
 <!--
 **Essietasha/Essietasha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
