@@ -2,20 +2,20 @@
 
 ### Frontend Developer | Experienced in Backend Integrations
 
-### 🔭 What I Work On:
+#### 🔭 What I Work On:
 Fully-stack applications to enhance my full-stack development skills, while exploring new technologies and methodologies.
 
-### ⚙️ Focus Area:
+#### ⚙️ Focus Area:
 Scalable frontend apps with React, TypeScript & real-world APIs
 
-### 🌱 I’m currently learning:
+#### 🌱 I’m currently learning:
 Next.js, TRypeScript
 
 🌐 Portfolio:
 https://essietasha.github.io/Portfolio-Essie
 ---
 
-## 🚀 Tech Stack
+### 🚀 Tech Stack
 
 **Frontend**
 - React
@@ -39,7 +39,7 @@ https://essietasha.github.io/Portfolio-Essie
 
 ---
 
-## 🌍 Let’s Connect
+### 🌍 Let’s Connect
 
 Feel free to explore my repositories and connect with me!
 - 💼 [LinkedIn](https://www.linkedin.com/in/estherolukoyatasha)
