@@ -2,7 +2,6 @@
 
 # Hi👋 I'm Esther
 ### Frontend Developer | Experienced in Backend Integrations
-Email: essietasharae@gmail.com
 
 </div>
 
@@ -16,6 +15,7 @@ Building scalable frontend applications with React, TypeScript, and integrating 
 Next.js, TypeScript
 
 ---
+#### ✉️ Email: essietasharae@gmail.com
 
 #### 🌐 Portfolio: https://essietasha.github.io/Portfolio-Essie
 
