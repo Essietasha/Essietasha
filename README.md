@@ -2,6 +2,7 @@
 
 # Hi👋 I'm Esther
 ### Frontend Developer | Experienced in Backend Integrations
+Email: essietasharae@gmail.com
 
 </div>
 
